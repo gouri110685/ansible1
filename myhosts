@@ -6,3 +6,7 @@
 [DBserver]
 172.31.18.143
 172.31.18.18
+
+[mywebserver:var]
+myjavajdk8onubuntu=openjdk-8-jdk
+myjavajdk8onubuntu=java-1.8.0-openjdk
